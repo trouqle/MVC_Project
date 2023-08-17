@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FXXFFGFwgsn09qnL5k4jD3dclfqr6dQUm3ycayiPZfLN1Ir1pIvHb3GJfaUdBTdpaa81WH0JZSn3Nt/MqdIMcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\source\\repos\\DragDrop2\\DragDrop2\\DragDrop2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\jquery.filedrop\\1.0.1\\jquery.filedrop.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

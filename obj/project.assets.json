@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "jQuery.filedrop/1.0.1": {
+        "type": "package"
+      }
+    }
+  },
+  "libraries": {
+    "jQuery.filedrop/1.0.1": {
+      "sha512": "onEhmpyJp0wkNMSBTyoF/BD0Fl+7YwXRUXfXD74cbXAzVy7zSMo9XmbtnSBwteOgimzmoZGhywfzx91AUBM28g==",
+      "type": "package",
+      "path": "jquery.filedrop/1.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/Scripts/jquery.filedrop.js",
+        "jquery.filedrop.1.0.1.nupkg.sha512",
+        "jquery.filedrop.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "jQuery.filedrop >= 1.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\PC\\source\\repos\\DragDrop2\\DragDrop2\\DragDrop2.csproj",
+      "projectName": "DragDrop2",
+      "projectPath": "C:\\Users\\PC\\source\\repos\\DragDrop2\\DragDrop2\\DragDrop2.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\source\\repos\\DragDrop2\\DragDrop2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "jQuery.filedrop": {
+            "target": "Package",
+            "version": "[1.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
